@@ -42,11 +42,8 @@ Follow these steps to set up the environment and install the required dependenci
    ```bash
    git clone https://github.com/Jacksparrow37/speculative-decoding-sockets.git
    cd speculative-decoding-sockets
-2. **Create the virtual environment**
+2. **Create the virtual environment**:
   ```bash
    git clone https://github.com/Jacksparrow37/speculative-decoding-sockets.git
    cd speculative-decoding-sockets
-3. **Install dependencies**:
-  ```bash
-   git clone https://github.com/Jacksparrow37/speculative-decoding-sockets.git
-   cd speculative-decoding-sockets
+

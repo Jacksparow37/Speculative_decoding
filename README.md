@@ -42,3 +42,11 @@ Follow these steps to set up the environment and install the required dependenci
    ```bash
    git clone https://github.com/Jacksparrow37/speculative-decoding-sockets.git
    cd speculative-decoding-sockets
+2. **Create the virtual environment**
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. **Install dependencies**
+  ```bash
+  pip install torch==2.0.1+cu118 torchvision==0.15.2+cu118 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
+  pip install transformers==4.31.0 numpy==1.24.3
